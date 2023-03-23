@@ -1,3 +1,6 @@
+# Files to ignore, added my me
+BLS_API/config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
