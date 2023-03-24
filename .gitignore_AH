@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Files to ignore, added my me
-BLS_API/config.py
+BLS_API/config_AH.py
 =======
 key.txt
 config.py
