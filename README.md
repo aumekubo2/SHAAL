@@ -52,3 +52,5 @@ We recommend marketing in the states with higher unemployment rates such as Neva
 
 -----
 [code] (https://github.com/aumekubo2/SHAAL/blob/main/Andreia/Project1_AU/Untitled.ipynb)
+
+![alt text](https://github.com/aumekubo2/SHAAL/blob/main/Screenshot%202023-03-26%20at%208.33.23%20PM.png)
