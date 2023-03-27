@@ -4,6 +4,7 @@
 ![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Economic%20Analysis%20Slides/Project1.jpg)
 ![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Economic%20Analysis%20Slides/Project1%20(1).jpg)
 ![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Economic%20Analysis%20Slides/Project1%20(2).jpg)
+![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Economic%20Analysis%20Slides/Project1%20(12).jpg)
 
 ##Statistical Analysis
 
