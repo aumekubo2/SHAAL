@@ -19,6 +19,15 @@ Top 10 jobs that will be on Demand by 2031 -based on employment changes
 
 By 2031, there will be a high demand for software developers, with an employment change of 370.6% and % change of 26. Median salary in 2021 was $120,730. From this information, we can say that demand for software developers is expected to increase significantly over the next decade and that individuals with bachelor degree in software development or related field will be well positioned to take advantage of this trend. Additionally, the high median annual wage for software developers suggests that this is a lucrative career path for those with necessary skills and qualifications. 
 
+By 2031, there is expected to be a 40.5% increase in employment for data scientist, with percentage % of 35.8. The median annual wage for data scientists in 2021 was $100,910 and bachelor degree is typically required to enter this field. This data suggests that data science is rapidly growing field with promising job prospects and a competitive salary. Individuals with bachelor degree in data science or related field may be well positioned to take advantage of this trend as well. 
+
+
+We recommend marketing in the states with higher unemployment rates such as Nevada 5.5% and Oregon 4.8%. It can be a good strategy for businesses because with higher unemployment there may be a larger pool of jobs seekers looking to work, which increase the likelihood of finding the qualified employees for open positions. 
+
+
+
+
+
 
 ##_Andreia_
 
