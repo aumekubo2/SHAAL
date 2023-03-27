@@ -1,13 +1,6 @@
 # SHAAL
 #**Group SHAAL Project 1**
 
-Statistical Analysis
-
-To provide information on the relationships between inflation, real interest rate, and national employment, a statistical analysis concerning correlations between these three indicators was conducted. 
-The correlation coefficient for inflation and national employment was 0.82, showing a strong positive correlation. This is explained by the fact that as employment increases, more people are earning money and therefore more money is also being spent. With more money circulating, purchasing power is lowered and inflation increases. 
-When looking at inflation and real interest rate, there seems to be no correlation at first glance, as the correlation coefficient for data from the past 13 years is 0.21. However, we are looking at a timeframe from 2010 to 2023 and interest rates were heavily impacted by the pandemic during the years of 2020 and 2021. As a response to Covid, interest rates were lowered by almost 1% in total as an incentive to increase spending to support the suddenly slowed economy. When looking at the relationship between CPI and real interest rate without taking the “Covid years” of 2020 and 2021 into account, we can see a much clearer positive correlation with a correlation coefficient of 0.6. This is explained by the fact that as inflation increases, interest rates are raised to disincentivize spending and encourage saving, with the goal to reduce the money circulating in the market and therefore bringing inflation back down. 
-Similar to CPI and real interest rate, national employment and real interest rate do not seem to be correlated at first with a correlation coefficient of -0.1. However, we are looking at the 2010 – 2023 timeframe, which was heavily impacted by Covid. When not taking 2020 and 2021 into account due to the effect Covid had as explained above, we can see that national employment and real interest rate actually have a correlation coefficient of -0.58, displaying a negative correlation. As the real interest rate is increased with the goal to disincentivize spending and ultimately reduce inflation, less money will be circulating in the market, and employment will ultimately drop with money becoming more “valuable” again. 
-
 
 ![image](https://user-images.githubusercontent.com/123321044/227833798-28cc8430-83d0-4d3a-a58a-bfe4aa41ef8d.png)
 
