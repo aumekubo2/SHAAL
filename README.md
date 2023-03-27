@@ -1,7 +1,5 @@
 # SHAAL
 #**Group SHAAL Project 1**
-
-
 ![image](https://user-images.githubusercontent.com/123321044/227833798-28cc8430-83d0-4d3a-a58a-bfe4aa41ef8d.png)
 
 
