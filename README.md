@@ -1,12 +1,12 @@
 # SHAAL
-#**Group SHAAL Project 1**
+# **Group SHAAL Project 1**
 
 ![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Economic%20Analysis%20Slides/Project1.jpg)
 ![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Economic%20Analysis%20Slides/Project1%20(1).jpg)
 ![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Economic%20Analysis%20Slides/Project1%20(2).jpg)
 ![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Economic%20Analysis%20Slides/Project1%20(12).jpg)
 
-##Statistical Analysis
+## Statistical Analysis
 
 ![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Statistical%20Analysis%20Slides/Project1%20(3).jpg)
 
@@ -21,7 +21,7 @@ When looking at inflation and real interest rate, there seems to be no correlati
 
 Similar to CPI and real interest rate, national employment and real interest rate do not seem to be correlated at first with a correlation coefficient of -0.1. However, we are looking at the 2010 – 2023 timeframe, which was heavily impacted by Covid. When not taking 2020 and 2021 into account due to the effect Covid had as explained above, we can see that national employment and real interest rate actually have a correlation coefficient of -0.58, displaying a negative correlation. As the real interest rate is increased with the goal to disincentivize spending and ultimately reduce inflation, less money will be circulating in the market, and employment will ultimately drop with money becoming more “valuable” again. 
 
-##Business Employment Dynamics
+## Business Employment Dynamics
 
 ![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Job%20Market%20Analysis%20and%20Conclusion%20Slides/Project1%20(6).jpg)
 
@@ -34,7 +34,7 @@ Note
 The accuracy of projections for individual occupations is subject to error because of the many unknown factors that may affect the economy over the projection period. Furthermore, while occupational employment projections and related job outlook information can provide valuable inputs to the career decision-making process, 
 they should not be the sole basis for a choice of career.
 
-##Unemployment Rate by industry and by age group
+## Unemployment Rate by industry and by age group
 
 ![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Job%20Market%20Analysis%20and%20Conclusion%20Slides/Project1%20(7).jpg)
 
