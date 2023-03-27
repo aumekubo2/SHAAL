@@ -2,6 +2,9 @@
 #**Group SHAAL Project 1**
 
 Statistical Analysis
+![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Economic%20Analysis%20Slides/Project1.jpg)
+![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Economic%20Analysis%20Slides/Project1%20(1).jpg)
+![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Economic%20Analysis%20Slides/Project1%20(2).jpg)
 
 To provide information on the relationships between inflation, real interest rate, and national employment, a statistical analysis concerning correlations between these three indicators was conducted. 
 The correlation coefficient for inflation and national employment was 0.82, showing a strong positive correlation. This is explained by the fact that as employment increases, more people are earning money and therefore more money is also being spent. With more money circulating, purchasing power is lowered and inflation increases. 
