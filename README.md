@@ -4,28 +4,31 @@
 ##Background: Mudit & Associates, the number one professional service training provider in the U.S., are planning to expand their training program.  SHAAL Incorporated was hired to analyze the current non-farmer U.S job market in order to identify what  jobs will be in demand in the next 8 years and the best time for them to expand their business.
 
 Analysis review:
-Inflation and interest rate data to assess when to invest in providing training for a new industry 
-Correlations between interest rate, inflation, and unemployment 
-Job market on employment/unemployment dynamics between 2010-2022
-Unemployment demographics
-Jobs that are in demand for the next 8 years
+- Inflation and interest rate data to assess when to invest in providing training for a new industry 
+- Correlations between interest rate, inflation, and unemployment 
+- Job market on employment/unemployment dynamics between 2010-2022
+- Unemployment demographics
+- Jobs that are in demand for the next 8 years
 
 Data Sources:
 https://www.bls.gov
 https://fred.stlouisfed.org 
 https://data.imf.org
 
+#**Economic Analysis**
 
-In order to expand its business there are a few considerations that a business needs to make. Starting with creating a business plan, considering forms of financing, and making hiring decisions are a few factors to explore. Shaal looked at the current U.S. economic situation to assess if the current economy is a favorable one. To do so, we looked at current unemployment levels, inflation rate, and interest rates.
+In order to expand its business there are a few considerations that a business needs to make. Starting with creating a business plan, considering forms of financing, and making hiring decisions are a few factors to explore. SHAAL looked at the current U.S. economic situation to assess if the current economy is a favorable one. To do so, we looked at current unemployment levels, inflation rate, and interest rates.
 
 Why are these factors relevant?
-- Inflation helps to determine with business cycle the U.S is experiencing (expansion or contraction) 
+- Inflation helps to determine with business cycle the U.S is experiencing (expansion or contraction)
 - Lower unemployment rate leads to business computing in the market to attract and retain qualified employees
 - Interest rate will influence how much and how companies will raise capital
 
-#Inflation: The Federal reserves look at the Consumer Price Index to determine current inflation rates. In a simplist way to explain, the FED looks at current prices of goods and services, excluging food and energy prices due to its volatitily, and compare to prior prices. In the short term, high inflation leads to lower unemployment rates as business expands in order to keep up with the high demand. This causes prices and employement cost to rise.
+#Inflation: The Federal Reserve looks at the Consumer Price Index to determine current inflation rates. In a simplest way to explain, the FED looks at current prices of goods and services, excluding food and energy prices due to its volatility, and compares them to prior prices. In the short term, high inflation leads to lower unemployment rates as business expands in order to keep up with the high demand. This causes prices and employment costs to rise.
 
-Why the FED trys to lower inflaction if it helps with employment and causes expansion? Because in the long term, inflation causes money to lose value. So, this is a classic example that too much of a good thing, can be a bad thing.
+Why does the FED try to lower inflation if it helps with employment and causes expansion? Because in the long term, inflation causes money to lose value. So, this is a classic example that too much of a good thing can be a bad thing.
+
+In order to lower inflation the FED try to reduce the money circulation by increasing interest rate. High interest rate leads to high cost of borrowing, high cost of borrowing causes companies to reduce expantionary projects. It also leads to more individuals and companies choosing to invest instead expanding.
 
 ![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Economic%20Analysis%20Slides/Project1.jpg)
 ![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Economic%20Analysis%20Slides/Project1%20(1).jpg)
