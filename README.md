@@ -1,6 +1,31 @@
 # SHAAL
 # **Group SHAAL Project 1**
 
+##Background: Mudit & Associates, the number one professional service training provider in the U.S., are planning to expand their training program.  SHAAL Incorporated was hired to analyze the current non-farmer U.S job market in order to identify what  jobs will be in demand in the next 8 years and the best time for them to expand their business.
+
+Analysis review:
+Inflation and interest rate data to assess when to invest in providing training for a new industry 
+Correlations between interest rate, inflation, and unemployment 
+Job market on employment/unemployment dynamics between 2010-2022
+Unemployment demographics
+Jobs that are in demand for the next 8 years
+
+Data Sources:
+https://www.bls.gov
+https://fred.stlouisfed.org 
+https://data.imf.org
+
+
+In order to expand its business there are a few considerations that a business needs to make. Starting with creating a business plan, considering forms of financing, and making hiring decisions are a few factors to explore. Shaal looked at the current U.S. economic situation to assess if the current economy is a favorable one. To do so, we looked at current unemployment levels, inflation rate, and interest rates.
+
+Why are these factors relevant?
+
+- Lower unemployment rate leads to business computing in the market to attract and retain qualified employees
+- Interest rate will influence how much and how companies will raise capital
+- Inflation helps to determine with business cycle the U.S is experiencing (expansion or contraction) 
+
+
+
 ![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Economic%20Analysis%20Slides/Project1.jpg)
 ![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Economic%20Analysis%20Slides/Project1%20(1).jpg)
 ![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Economic%20Analysis%20Slides/Project1%20(2).jpg)
