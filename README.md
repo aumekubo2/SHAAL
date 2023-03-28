@@ -86,7 +86,7 @@ By 2031, there is expected to be a 40.5% increase in employment for data scienti
 
 We recommend marketing in the states with higher unemployment rates such as Nevada 5.5% and Oregon 4.8%. It can be a good strategy for businesses because with higher unemployment there may be a larger pool of jobs seekers looking to work, which increase the likelihood of finding the qualified employees for open positions. 
 
-##Limitations and Conclusions
+## Limitations and Conclusions
 ![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Job%20Market%20Analysis%20and%20Conclusion%20Slides/Project1%20(11).jpg)
 
 
