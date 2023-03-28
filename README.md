@@ -25,7 +25,7 @@ Why are these factors relevant?
 
 #Inflation: The Federal reserves look at the Consumer Price Index to determine current inflation rates. In a simplist way to explain, the FED looks at current prices of goods and services, excluging food and energy prices due to its volatitily, and compare to prior prices. In the short term, high inflation leads to lower unemployment rates as business expands in order to keep up with the high demand. This causes prices and employement cost to rise.
 
-Why the FED trys to lower inflaction if it helps with employment and causes expansion? Because in the long term, inflaction causes money to lose value. So, this is a classic example that too much of a good thing, can be a bad thing.
+Why the FED trys to lower inflaction if it helps with employment and causes expansion? Because in the long term, inflation causes money to lose value. So, this is a classic example that too much of a good thing, can be a bad thing.
 
 ![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Economic%20Analysis%20Slides/Project1.jpg)
 ![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Economic%20Analysis%20Slides/Project1%20(1).jpg)
