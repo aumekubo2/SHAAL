@@ -1,7 +1,8 @@
 # SHAAL
 # **Group SHAAL Project 1**
 
-##Background: Mudit & Associates, the number one professional service training provider in the U.S., are planning to expand their training program.  SHAAL Incorporated was hired to analyze the current non-farmer U.S job market in order to identify what  jobs will be in demand in the next 8 years and the best time for them to expand their business.
+### Background: 
+Mudit & Associates, the number one professional service training provider in the U.S., are planning to expand their training program.  SHAAL Incorporated was hired to analyze the current non-farmer U.S job market in order to identify what  jobs will be in demand in the next 8 years and the best time for them to expand their business.
 
 Analysis review:
 - Inflation and interest rate data to assess when to invest in providing training for a new industry 
@@ -15,7 +16,7 @@ https://www.bls.gov
 https://fred.stlouisfed.org 
 https://data.imf.org
 
-#**Economic Analysis**
+## **Economic Analysis**
 
 In order to expand its business there are a few considerations that a business needs to make. Starting with creating a business plan, considering forms of financing, and making hiring decisions are a few factors to explore. SHAAL looked at the current U.S. economic situation to assess if the current economy is a favorable one. To do so, we looked at current unemployment levels, inflation rate, and interest rates.
 
