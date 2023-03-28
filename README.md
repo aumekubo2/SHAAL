@@ -19,12 +19,13 @@ https://data.imf.org
 In order to expand its business there are a few considerations that a business needs to make. Starting with creating a business plan, considering forms of financing, and making hiring decisions are a few factors to explore. Shaal looked at the current U.S. economic situation to assess if the current economy is a favorable one. To do so, we looked at current unemployment levels, inflation rate, and interest rates.
 
 Why are these factors relevant?
-
+- Inflation helps to determine with business cycle the U.S is experiencing (expansion or contraction) 
 - Lower unemployment rate leads to business computing in the market to attract and retain qualified employees
 - Interest rate will influence how much and how companies will raise capital
-- Inflation helps to determine with business cycle the U.S is experiencing (expansion or contraction) 
 
+#Inflation: The Federal reserves look at the Consumer Price Index to determine current inflation rates. In a simplist way to explain, the FED looks at current prices of goods and services, excluging food and energy prices due to its volatitily, and compare to prior prices. In the short term, high inflation leads to lower unemployment rates as business expands in order to keep up with the high demand. This causes prices and employement cost to rise.
 
+Why the FED trys to lower inflaction if it helps with employment and causes expansion? Because in the long term, inflaction causes money to lose value. So, this is a classic example that too much of a good thing, can be a bad thing.
 
 ![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Economic%20Analysis%20Slides/Project1.jpg)
 ![Alt Text](https://github.com/aumekubo2/SHAAL/blob/main/Economic%20Analysis%20Slides/Project1%20(1).jpg)
