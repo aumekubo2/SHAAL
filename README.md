@@ -25,7 +25,8 @@ Why are these factors relevant?
 - Lower unemployment rate leads to business computing in the market to attract and retain qualified employees
 - Interest rate will influence how much and how companies will raise capital
 
-#Inflation: The Federal Reserve looks at the Consumer Price Index to determine current inflation rates. In a simplest way to explain, the FED looks at current prices of goods and services, excluding food and energy prices due to its volatility, and compares them to prior prices. In the short term, high inflation leads to lower unemployment rates as business expands in order to keep up with the high demand. This causes prices and employment costs to rise.
+### Inflation: 
+The Federal Reserve looks at the Consumer Price Index to determine current inflation rates. In a simplest way to explain, the FED looks at current prices of goods and services, excluding food and energy prices due to its volatility, and compares them to prior prices. In the short term, high inflation leads to lower unemployment rates as business expands in order to keep up with the high demand. This causes prices and employment costs to rise.
 
 Why does the FED try to lower inflation if it helps with employment and causes expansion? Because in the long term, inflation causes money to lose value. So, this is a classic example that too much of a good thing can be a bad thing.
 
